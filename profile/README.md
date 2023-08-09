@@ -20,6 +20,7 @@ Collection of [Deno](https://deno.com) libraries for everything.
 
 ## ported HTTP libs
 
+- [superfetch](https://github.com/deno-libs/superfetch)
 - [proxy_addr](https://github.com/deno-libs/proxy_addr)
 - [ipaddrjs](https://github.com/deno-libs/ipaddrjs)
 - [forwarded](https://github.com/deno-libs/forwarded)
