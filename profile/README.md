@@ -2,8 +2,6 @@
 
 Collection of [Deno](https://deno.com) libraries for everything.
 
-[🪩🪞 Gitea mirror](https://git.v1rtl.site/deno-libs)
-
 ## GraphQL
 
 - [gql](https://github.com/deno-libs/gql)
@@ -28,7 +26,3 @@ Collection of [Deno](https://deno.com) libraries for everything.
 ## misc
 
 - [down](https://github.com/deno-libs/down)
-
-## in development
-
-- [ipfs](https://github.com/deno-libs/ipfs)
